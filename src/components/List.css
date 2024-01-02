@@ -1,0 +1,18 @@
+.listPlanets{
+  list-style: none;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  text-decoration: none;
+  margin: 10px;
+}
+
+.listPlanets button{
+    color: #353535;
+    border: none;
+    padding: 8px 4px;
+}
+.listPlanets button:hover{
+    color: rgb(255, 221, 0);
+    background-color: #353535;
+    border-radius: 10px;
+}
